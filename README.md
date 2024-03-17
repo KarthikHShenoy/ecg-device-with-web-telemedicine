@@ -34,8 +34,8 @@
             </ol>
         </div>
         <h2 style="font-size: 20px; margin-top: 20px; margin-bottom: 10px;">Results</h2>
-        <img src="https://github.com/animannaskar/Low-Cost-ECG-Device-with-Web-based-Telemedicine/assets/143376315/019cc3cf-33e2-4680-b5b7-961b585104d1" alt="End Image" style="max-width: 100%; margin-top: 20px;">
-      <img src="https://github.com/animannaskar/Low-Cost-ECG-Device-with-Web-based-Telemedicine/assets/143376315/57cc3fd1-18a4-481c-985b-afb311ec684b" alt="End Image" style="max-width: 100%; margin-top: 20px; " align = "right">
+        <img src="https://github.com/animannaskar/Low-Cost-ECG-Device-with-Web-based-Telemedicine/assets/143376315/bc555036-bdc9-411b-94f8-a758dabaf33b" alt="End Image" style="max-width: 100%; margin-top: 20px;">
+      <img src="https://github.com/animannaskar/Low-Cost-ECG-Device-with-Web-based-Telemedicine/assets/143376315/d77536c6-7557-40f1-966f-6c9fd60227ba" alt="End Image" style="max-width: 100%; margin-top: 20px; " align = "right">
     </div>
     <h2 style="font-size: 20px; margin-top: 20px; margin-bottom: 10px;">References</h2>
     <p style="font-size: 16px; line-height: 1.6;">
