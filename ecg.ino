@@ -4,8 +4,8 @@
 
 #define SENSOR 36
 
-const char* ssid = "IITRPR";//"CHENAB";
-const char* password =
+const char* ssid = // enter the wifi 
+const char* password = // enter the wifi password
 
 const char* url = "http://simpop.org/ecg/savedata.php";
 
