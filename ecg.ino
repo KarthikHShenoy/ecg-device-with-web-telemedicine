@@ -5,7 +5,7 @@
 #define SENSOR 36
 
 const char* ssid = "IITRPR";//"CHENAB";
-const char* password ="V#6qF?pyM!bQ$%NX"; //"44zMf3QqdU&KC3Mv";
+const char* password =
 
 const char* url = "http://simpop.org/ecg/savedata.php";
 
